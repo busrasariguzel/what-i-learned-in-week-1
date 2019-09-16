@@ -3,7 +3,9 @@
 
 ### **`Human Resource Machine`**
 
-        A coding game that gets difficult in each level. It teaches the arithmetics behind coding. It helps us to have puzzle solving perspective. I think it will be very helpful for us.
+        A coding game that gets difficult in each level.
+        It teaches the arithmetics behind coding. It helps us to have puzzle solving perspective.
+        I think it will be very helpful for us.
 
 ---
 
