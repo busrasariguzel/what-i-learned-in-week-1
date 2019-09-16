@@ -68,4 +68,10 @@ Flow Charts have 3 different parts:
 ---
 ### **`The Adventures of Link`**
 
-    This was my favorite project in class. It really helped me to learn more about HTML. I enjoyed being creative and linking different files to each other. I made a mini quiz that has many general knowledge questions. I enjoyed presenting my project and interacting with my classmates. The difficult part about the project is the time management. Trying to finish  the project on time was stressful for me. I want to improve myself on time management.           
+    This was my favorite project in class. It really helped me to learn more about HTML.
+    I enjoyed being creative and linking different files to each other.
+    I made a mini quiz that has many general knowledge questions.
+    I enjoyed presenting my project and interacting with my classmates.
+    The difficult part about the project is the time management.
+    Trying to finish  the project on time was stressful for me.
+    I want to improve myself on time management.           
