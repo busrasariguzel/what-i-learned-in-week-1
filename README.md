@@ -44,7 +44,11 @@ It was my first time learning about html so it was very exciting to me. HTML is 
 
 ### **`Converting my Portfolio into HTML`**
 
-    The process was very helpful for me to understand the concepts of html. Since it’s my first experience with html, I had a chance to explore different tags, lists, titles and many more. I struggled mostly with the image tag, but after spending some time, I figured it out. Html was confusing for me at first, but after converting my portfolio into html, it started to be fun. I am looking forward to learn more about html!
+    The process was very helpful for me to understand the concepts of html.
+    Since it’s my first experience with html,
+    I had a chance to explore different tags, lists, titles and many more.
+    I struggled mostly with the image tag, but after spending some time, I figured it out. Html was confusing for me at first, but after converting my portfolio into html, it started to be fun.
+    I am looking forward to learn more about html!
 
 
 ---
