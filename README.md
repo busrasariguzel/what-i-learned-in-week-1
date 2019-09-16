@@ -21,7 +21,7 @@ It was my first time learning about html so it was very exciting to me. HTML is 
 
 ---
 
-### **`MARKDOWN VS HTM`**
+### **`MARKDOWN VS HTML`**
 
 
     Starting and ending tags are one of the main difference between markdown and HTML. Since markdown does not have these tags, it makes it easier for us to read. That’s why markdown is very helpful in some cases such as emails,presentations, notes and documents.
